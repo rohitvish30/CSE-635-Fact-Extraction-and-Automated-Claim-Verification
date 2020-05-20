@@ -1,4 +1,4 @@
-                                #Project 1 -Fact Extraction and Automated Claim Verification
+                                Project 1 -Fact Extraction and Automated Claim Verification
                                 
 ⮚Verify textual claims against textual sources by retrieving relevant evidence from Wikipedia pages.
 ⮚Dataset: FEVER (Fact Extraction and VERification) dataset
