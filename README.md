@@ -20,5 +20,6 @@
 # My contribution
 * To facilitate the fake news validation developed an Automatic Fact Check Claim Verification web app with the 2017 Wikipedia dump where Python’s Flask library was used for the model deployment on web.
 * Used Python’s NLP’s RAKE and textblob library to extract keywords from the claim to retrieve the most relevant Wikipedia documents and used Python’s Spacy and TF-IDF that improved evaluation of sentence similarity between corresponding Wikipedia document’s sentences and the given claim.
+* Do refer Final Report
 
 
